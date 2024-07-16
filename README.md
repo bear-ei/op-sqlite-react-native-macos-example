@@ -1,1 +1,1 @@
-# op-sqlite-react-native-macos-example-
+# op-sqlite-react-native-macos-example
